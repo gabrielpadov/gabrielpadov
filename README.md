@@ -14,9 +14,8 @@
   <img align="center" alt="Html Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MongoDB Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="center" alt="Node Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Python Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
+  <img align="center" alt="Node Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<!--  <img align="center" alt="Python Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> -->
 </div>
 
 <!-- ## I am Learning
@@ -41,12 +40,4 @@
 
 ## Github Analytics
 
-![gabrielpadov's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielpadov&count_private=true)
-    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpadov&layout=compact)](https://github.com/gabrielpadov/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielpadov)](https://github.com/gabrielpadov/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielpadov&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielpadov&show_icons=true&theme=radical)
