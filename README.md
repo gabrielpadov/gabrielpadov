@@ -1,12 +1,13 @@
 ## 👋 Hi, I’m Gabriel Padovani!
-- 🖥️ I am Fullstack developer <!-- and I have more experience in Backend. -->
-<!-- - 📚 I always like to learn new things and new tecnologies
-- 🎯 I am focused now in improve my front end skills and learn more about Python
-- ❤️  But my main stack and favorite stack is Javascript
-- ✨ In my free time I like to read (books, mangás), play chess, play video games, get out to have fun and study languages and programming languages. 
--->
+- 📚 I have a degree in industrial automation technician and computer engineering student.
+- 🖥️ I work in the development of Credit Card Processing systems (backoffice, batch processing, regulatory files, routines) and TEF solutions.
+- 🎯 I'm focused on the frontend for backoffice and on building and integrating the system's RESTful API with the operation interfaces (client-side)
+- :heavy_plus_sign: I like working in groups, I am cooperative and proactive. I think about everyone's needs and try to get along with people. I try to be open-minded, flexible and comfortable with change.
+- ❤️ My main stack and favorite stack is Javascript
+- 🔭 I like literature, movies, TV series and music.
+- 💥 Fun fact: I was captain of the BAJA extension project at CEFET-MG
 
-## Tech Stack
+### Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -15,29 +16,26 @@
   <img align="center" alt="CSS Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MongoDB Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Node Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<!--  <img align="center" alt="Python Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> -->
+  <img align="center" alt="Bootstrap Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 </div>
 
-<!-- ## I am Learning
+### I am Learning
 <div style="display: inline_block"><br>
-<img align="center" alt="GoLang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-<img align="center" alt="Python Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div> -->
+  <img align="center" alt="GoLang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+</div>
 
-<!-- ## Tools and Platform
+### Others Languages and Tools
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<div> -->
+  <img align="center" alt="Java Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="C++ Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Python Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<div>
 
-## Job
-- 💼 Full Stack developer at Tamborine Tecnologia
-
-## Connect with me
- 
- <div>
+### Connect with me
+ <div style="display: inline_block"><br>
    <a href="https://www.linkedin.com/in/gabrielpadovani/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://instagram.com/gabrielpadov" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <div>
 
-## Github Analytics
-
+### Github Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpadov&layout=compact)](https://github.com/gabrielpadov/github-readme-stats)
