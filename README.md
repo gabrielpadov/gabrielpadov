@@ -1,11 +1,11 @@
 ## 👋 Hi!
-<p> I have a degree in industrial automation technician and computer engineering student.
-  
-I work in the development of Credit Card Processing systems (backoffice, batch processing, regulatory files, routines) and TEF solutions. I'm focused on the frontend for backoffice and on building and integrating the system's RESTful API with the operation interfaces (client-side).
-
-I like working in groups, I am cooperative and proactive. I think about everyone's needs and try to get along with people. I try to be open-minded, flexible and comfortable with change.
-My main stack and favorite stack is Javascript.I like literature, movies, TV series and music. Fun fact: I was captain of the BAJA extension project at CEFET-MG.
-</p>
+- I work in the development of Credit Card Processing systems and TEF solutions. 
+- I'm focused on the frontend for backoffice and on building and integrating the system's API RESTful with the operation interfaces.
+- I like working in groups, I am cooperative and proactive.
+- I think about everyone's needs and try to get along with people. I try to be open-minded, flexible and comfortable with change.
+- My main stack and favorite stack is Javascript.
+- I like literature, movies, TV series and music.
+- Fun fact: I was captain of the BAJA extension project at CEFET-MG.
 
 ### Tech Stack
 <div style="display: inline_block"><br>
