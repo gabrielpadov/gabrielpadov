@@ -8,7 +8,7 @@
 - Fun fact: I was captain of the BAJA extension project at CEFET-MG.
 
 ### Tech Stack
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Javascript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,19 +20,19 @@
 </div>
 
 <!-- ### I am Learning
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="GoLang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 </div> -->
 
 ### Others Languages and Tools
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Java Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="C++ Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Python Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <div>
 
 ### Connect with me
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
    <a href="https://www.linkedin.com/in/gabrielpadovani/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/gabrielpadov" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <div>
